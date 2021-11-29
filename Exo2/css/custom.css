@@ -1,0 +1,11 @@
+.background-carousel{
+}
+.background-carousel img{
+    min-height: 350px;
+    min-width: 100%;
+}
+.content-header{
+    top: 25%;
+    text-decoration-style: double;
+    color: white;
+}
